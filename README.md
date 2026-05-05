@@ -36,6 +36,10 @@ SUPPORT
 - [x] **可视化UI操作**
 - [x] **小程序自动解密**
 
+微信 4.0 之前：C:\Users\用户名\Documents\WeChat Files\Applet\{wxid}\{n}\__APP__.wxapkg
+微信 4.0 之后：C:\Users\用户名\AppData\Roaming\Tencent\xwechat\radium\Applet\packages\{wxid}\{n}\__APP__.wxapkg
+
+
 ## 方式一:  在线运行方式
 
 ![wedecode-ui.png](images/wedecode-ui.png)
